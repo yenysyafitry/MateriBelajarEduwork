@@ -48,7 +48,7 @@ Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berd
 <li>Berfungsi untuk menerima permintaan HTTP atau HTTPS dari klien atau kita kenal dengan web browser</li>
   <li>Terdapat 2 jenis web server : online dan offline (lokal komputer)</li></ol>
   
-![12](https://user-images.githubusercontent.com/81500429/143903052-44fe2160-df38-42d5-970f-c328248917ba.png) 
+![12](https://user-images.githubusercontent.com/81500429/143905295-69feb31c-e06f-4237-a4f1-20462328fed4.png)
 
 <b>2. Text Editor - Untuk membuat Website</b></br>
 Text Editor adalah suatu software aplikasi atau suatu program komputer yang memungkinkan user untuk membuat, mengubah atau mengedit file teks yang ada berupa plain text.</br>
