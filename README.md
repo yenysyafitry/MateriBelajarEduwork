@@ -26,7 +26,19 @@ Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berd
 
 ### Macam Macam Database
 
-<p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/2.png 3.png"></p>
+<p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/2.png">
+  <img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/3.png">
+  <img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/4.png">
+</p>
 
+### Server Database Offline / Local
+<p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/5.png"></p>
 
+### Server Database Online
+<p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/6.png"></p>
 
+### Aplikasi yang dibutuhkan
+Web Server - Untuk running website	
+<p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/7.png">
+  <img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/8.png">
+</p>
