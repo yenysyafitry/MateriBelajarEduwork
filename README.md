@@ -1,5 +1,6 @@
-<p align="justify"> 
-<b>Website</b>  adalah sebuah kumpulan halaman pada suatu domain di internet yang menyajikan informasi
-Jenis jenis website : company profile, toko online, blog, web portal, search engine, forum, sosial media, dll
-Manfaat website : memperluas jangkauan promosi, media tanpa batas, wadah komunitas, dll
-</p>
+### Website
+<ol align="justify">
+<li>Website adalah sebuah kumpulan halaman pada suatu domain di internet yang menyajikan informasi</li>
+<li>Jenis jenis website : company profile, toko online, blog, web portal, search engine, forum, sosial media, dll</li>
+<li>Manfaat website : memperluas jangkauan promosi, media tanpa batas, wadah komunitas, dll</li>
+</ol>
