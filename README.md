@@ -6,7 +6,8 @@
 </ol>
 
 ### Cara Kerja Website
-![1](https://user-images.githubusercontent.com/81500429/143888829-a3d57707-ee86-4cb7-9d61-2dfb1e9c8bb0.png)
+![1](https://user-images.githubusercontent.com/81500429/143899415-a495c1f8-ca60-466a-b4bb-f957d590e0ba.png)
+
 
 <ol align="justify"><b>Dua bagian utama dalam aplikasi web :</b>
 <li>Client dapat mengakses aplikasi web melalui web browser, seperti mozilla firefox, google chrome, internet explorer, dan web browser lainnya.</li>
@@ -25,7 +26,7 @@
 Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berdasarkan ketentuan tertentu yang saling berhubungan sehingga mudah dalam pengelolaannya. Melalui pengelolaan tersebut pengguna dapat memperoleh kemudahan dalam mencari informasi, menyimpan informasi dan membuang informasi.</br>
 
 ### Macam Macam Database
-![2](https://user-images.githubusercontent.com/81500429/143889283-733fb732-b5cc-46f4-8d8f-a455376f0c42.png) ![3](https://user-images.githubusercontent.com/81500429/143898687-3b69fb0a-18a3-4a7b-924b-4527abb4152c.png)  ![4](https://user-images.githubusercontent.com/81500429/143889292-d90bb321-db44-4d06-976f-1884800db555.png)
+![2](https://user-images.githubusercontent.com/81500429/143899380-62b5654d-2868-4af6-804b-546bba6f3091.png) ![3](https://user-images.githubusercontent.com/81500429/143898687-3b69fb0a-18a3-4a7b-924b-4527abb4152c.png)  ![4](https://user-images.githubusercontent.com/81500429/143889292-d90bb321-db44-4d06-976f-1884800db555.png)
 
 
 ### Server Database Offline / Local
