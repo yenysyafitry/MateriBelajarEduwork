@@ -6,7 +6,8 @@
 </ol>
 
 ### Cara Kerja Website
-https://github.com/yenysyafitry/MateriBelajarEduwork/issues/2#issue-1066127120
+![1](https://user-images.githubusercontent.com/81500429/143888829-a3d57707-ee86-4cb7-9d61-2dfb1e9c8bb0.png)
+
 <p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/issues/2#issue-1066127120"></p>
 
 
