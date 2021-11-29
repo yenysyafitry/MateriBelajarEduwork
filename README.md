@@ -38,7 +38,8 @@ Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berd
 
 ### Aplikasi yang dibutuhkan
 Web Server - Untuk running website	</br>
-![7](https://user-images.githubusercontent.com/81500429/143895918-0e169f5c-a31d-4be5-b7dd-3c689febbffb.png)
+![7](https://user-images.githubusercontent.com/81500429/143896297-2102b69e-d0c4-42a8-9ba1-889d795177aa.png)
+
  ![8](https://user-images.githubusercontent.com/81500429/143890663-9f148df2-36b2-49d7-8612-71fa7d3e9534.png) Wamp
 
 
