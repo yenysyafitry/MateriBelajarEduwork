@@ -47,6 +47,7 @@ Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berd
   <li>Perangkat yang menyimpan dan mengirimkan konten website</li>
 <li>Berfungsi untuk menerima permintaan HTTP atau HTTPS dari klien atau kita kenal dengan web browser</li>
   <li>Terdapat 2 jenis web server : online dan offline (lokal komputer)</li></ol>
+  
 ![12](https://user-images.githubusercontent.com/81500429/143903052-44fe2160-df38-42d5-970f-c328248917ba.png) </br>
 
 <b>Text Editor - Untuk membuat Website</b></br>
