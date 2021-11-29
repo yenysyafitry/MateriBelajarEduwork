@@ -39,8 +39,12 @@ Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berd
 
 
 ### Aplikasi yang dibutuhkan
-Web Server - Untuk running website	</br></br>
+<b>Web Server - Untuk running website</b>	</br></br>
 ![7](https://user-images.githubusercontent.com/81500429/143897850-650d71b8-ffb1-4add-b376-fca1f6ab9eaa.png)  ![8](https://user-images.githubusercontent.com/81500429/143897332-a386a561-ddaa-46a3-9a22-6f281bd74467.png)
+
+<b>Text Editor - Untuk membuat Website</b></br></br>
+![9](https://user-images.githubusercontent.com/81500429/143901538-e972f16d-6266-4510-a4b3-5a68da4e0e32.png)      ![10](https://user-images.githubusercontent.com/81500429/143902047-32dd0a47-aa71-467a-a6db-ba41dba74491.png)   ![11](https://user-images.githubusercontent.com/81500429/143902432-0ab8213f-e589-436c-a457-5518b4b11aa3.png)
+
 
 
 
