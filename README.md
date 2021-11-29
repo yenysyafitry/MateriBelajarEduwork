@@ -13,7 +13,7 @@
 <li>Server adalah perangkat komputer dengan spesifikasi yang bagus dan digunakan untuk menyimpan aplikasi web beserta database server yang siap untuk diakses oleh client.
 </li></ol>
 
-<b>Localhost Dan Web Hosting</b></br>
+###Localhost Dan Web Hosting
 <ol align="justify"><b>Localhost (Website offline)</b>
   <li>Localhost memiliki server yang disebut sebagai server offline. </li>
 <li>Kenapa disebut sebagai server offline? Hal ini dikarenakan setiap data website yang dimasukkan kedalam server ini tidak bisa untuk diakses dari luar. </li></ol>
