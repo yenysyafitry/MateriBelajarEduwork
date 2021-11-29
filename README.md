@@ -26,7 +26,8 @@
 Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berdasarkan ketentuan tertentu yang saling berhubungan sehingga mudah dalam pengelolaannya. Melalui pengelolaan tersebut pengguna dapat memperoleh kemudahan dalam mencari informasi, menyimpan informasi dan membuang informasi.</br>
 
 ### Macam Macam Database
-![2](https://user-images.githubusercontent.com/81500429/143899380-62b5654d-2868-4af6-804b-546bba6f3091.png) ![3](https://user-images.githubusercontent.com/81500429/143898687-3b69fb0a-18a3-4a7b-924b-4527abb4152c.png)  ![4](https://user-images.githubusercontent.com/81500429/143889292-d90bb321-db44-4d06-976f-1884800db555.png)
+![2](https://user-images.githubusercontent.com/81500429/143899380-62b5654d-2868-4af6-804b-546bba6f3091.png)    ![3](https://user-images.githubusercontent.com/81500429/143898687-3b69fb0a-18a3-4a7b-924b-4527abb4152c.png)      ![4](https://user-images.githubusercontent.com/81500429/143900115-7f5d2cc0-1065-4c4e-bfa8-173db1394a33.png)
+
 
 
 ### Server Database Offline / Local
