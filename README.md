@@ -6,8 +6,8 @@
 </ol>
 
 ### Cara Kerja Website
-<p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/issues/1#issue-1066117518">
-</p>
+<p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/issues/1#issue-1066117518"></p>
+
 
 <ol align="justify"><b>Dua bagian utama dalam aplikasi web :</b>
 <li>Client dapat mengakses aplikasi web melalui web browser, seperti mozilla firefox, google chrome, internet explorer, dan web browser lainnya.</li>
