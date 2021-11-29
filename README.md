@@ -40,7 +40,7 @@ Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berd
 
 ### Aplikasi yang dibutuhkan
 <b>Web Server - Untuk running website</b>	</br>
-![7](https://user-images.githubusercontent.com/81500429/143897850-650d71b8-ffb1-4add-b376-fca1f6ab9eaa.png)  ![8](https://user-images.githubusercontent.com/81500429/143897332-a386a561-ddaa-46a3-9a22-6f281bd74467.png)</br>
+![7](https://user-images.githubusercontent.com/81500429/143897850-650d71b8-ffb1-4add-b376-fca1f6ab9eaa.png)  ![8](https://user-images.githubusercontent.com/81500429/143897332-a386a561-ddaa-46a3-9a22-6f281bd74467.png)
 
 <ol align="justify">
   <li>Sebuah software yang memberikan layanan berupa data</li>
@@ -48,7 +48,7 @@ Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berd
 <li>Berfungsi untuk menerima permintaan HTTP atau HTTPS dari klien atau kita kenal dengan web browser</li>
   <li>Terdapat 2 jenis web server : online dan offline (lokal komputer)</li></ol>
   
-![12](https://user-images.githubusercontent.com/81500429/143903052-44fe2160-df38-42d5-970f-c328248917ba.png) </br>
+![12](https://user-images.githubusercontent.com/81500429/143903052-44fe2160-df38-42d5-970f-c328248917ba.png) 
 
 <b>Text Editor - Untuk membuat Website</b></br>
 Text Editor adalah suatu software aplikasi atau suatu program komputer yang memungkinkan user untuk membuat, mengubah atau mengedit file teks yang ada berupa plain text.</br>
