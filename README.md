@@ -39,11 +39,39 @@ Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berd
 
 
 ### Aplikasi yang dibutuhkan
-<b>Web Server - Untuk running website</b>	</br></br>
-![7](https://user-images.githubusercontent.com/81500429/143897850-650d71b8-ffb1-4add-b376-fca1f6ab9eaa.png)  ![8](https://user-images.githubusercontent.com/81500429/143897332-a386a561-ddaa-46a3-9a22-6f281bd74467.png)
+<b>Web Server - Untuk running website</b>	</br>
+![7](https://user-images.githubusercontent.com/81500429/143897850-650d71b8-ffb1-4add-b376-fca1f6ab9eaa.png)  ![8](https://user-images.githubusercontent.com/81500429/143897332-a386a561-ddaa-46a3-9a22-6f281bd74467.png)</br>
 
-<b>Text Editor - Untuk membuat Website</b></br></br>
+<b>Text Editor - Untuk membuat Website</b></br>
+Text Editor adalah suatu software aplikasi atau suatu program komputer yang memungkinkan user untuk membuat, mengubah atau mengedit file teks yang ada berupa plain text.</br>
 ![9](https://user-images.githubusercontent.com/81500429/143901538-e972f16d-6266-4510-a4b3-5a68da4e0e32.png)      ![10](https://user-images.githubusercontent.com/81500429/143902047-32dd0a47-aa71-467a-a6db-ba41dba74491.png)   ![11](https://user-images.githubusercontent.com/81500429/143902432-0ab8213f-e589-436c-a457-5518b4b11aa3.png)
+
+### Web Server
+![12](https://user-images.githubusercontent.com/81500429/143903052-44fe2160-df38-42d5-970f-c328248917ba.png)
+
+<ol align="justify">
+  <li>Sebuah software yang memberikan layanan berupa data</li>
+  <li>Perangkat yang menyimpan dan mengirimkan konten website</li>
+<li>Berfungsi untuk menerima permintaan HTTP atau HTTPS dari klien atau kita kenal dengan web browser</li>
+  <li>Terdapat 2 jenis web server : online dan offline (lokal komputer)</li></ol>
+
+
+### Manfaat Web Server
+<ol align="justify">
+  <li>Menjalankan sebuah website</li>
+  <li>Menampung file file project</li>
+  <li>Menampung database</li>
+  <li>Melakukan pemeriksaan terhadap sistem security</li>
+  <li>Menyediakan data berdasarkan request</li></ol>
+
+### Manfaat Text Editor
+<ol align="justify">
+<li>Mempermudah menghapal syntax karena 	terdapat fitur autocomplete</li>
+<li>Mencari kata pada sebuah file ataupun folder</li>
+<li>Membantu kita untuk melihat stuktur folder file dan source code </li></ol>
+
+### Cara Menyusun Project di Localhost
+![13](https://user-images.githubusercontent.com/81500429/143903939-5018f3cf-7dae-4619-83ce-b0ca1d37aa49.png)  ![14](https://user-images.githubusercontent.com/81500429/143903947-3dae6160-8d1e-4774-9394-e44232b556a4.png)
 
 
 
