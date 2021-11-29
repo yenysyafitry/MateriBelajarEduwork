@@ -8,9 +8,6 @@
 ### Cara Kerja Website
 ![1](https://user-images.githubusercontent.com/81500429/143888829-a3d57707-ee86-4cb7-9d61-2dfb1e9c8bb0.png)
 
-<p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/issues/2#issue-1066127120"></p>
-
-
 <ol align="justify"><b>Dua bagian utama dalam aplikasi web :</b>
 <li>Client dapat mengakses aplikasi web melalui web browser, seperti mozilla firefox, google chrome, internet explorer, dan web browser lainnya.</li>
 <li>Server adalah perangkat komputer dengan spesifikasi yang bagus dan digunakan untuk menyimpan aplikasi web beserta database server yang siap untuk diakses oleh client.
@@ -28,20 +25,21 @@
 Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berdasarkan ketentuan tertentu yang saling berhubungan sehingga mudah dalam pengelolaannya. Melalui pengelolaan tersebut pengguna dapat memperoleh kemudahan dalam mencari informasi, menyimpan informasi dan membuang informasi.</br>
 
 ### Macam Macam Database
+![2](https://user-images.githubusercontent.com/81500429/143889283-733fb732-b5cc-46f4-8d8f-a455376f0c42.png)
+![3](https://user-images.githubusercontent.com/81500429/143889290-13f79e93-f997-49ff-89ae-17a9354b746a.png)
+![4](https://user-images.githubusercontent.com/81500429/143889292-d90bb321-db44-4d06-976f-1884800db555.png)
 
-<p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/2.png">
-  <img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/3.png">
-  <img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/4.png">
-</p>
 
 ### Server Database Offline / Local
-<p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/5.png"></p>
+![5](https://user-images.githubusercontent.com/81500429/143889294-f465647c-6f99-424f-8b3e-6f7c80135fc0.png)
+
 
 ### Server Database Online
-<p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/6.png"></p>
+![6](https://user-images.githubusercontent.com/81500429/143889295-f2edfa86-47c0-46ab-8275-a3aeb056e9b8.png)
+
 
 ### Aplikasi yang dibutuhkan
 Web Server - Untuk running website	
-<p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/7.png">
-  <img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/8.png">
-</p>
+![7](https://user-images.githubusercontent.com/81500429/143889296-49dd0d99-909e-4fd9-b99e-6d6b699ef567.png)
+![8](https://user-images.githubusercontent.com/81500429/143889299-fa5bf3de-c18a-443d-8882-a0b8321a165d.png)
+
