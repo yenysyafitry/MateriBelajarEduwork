@@ -6,4 +6,4 @@
 </ol>
 
 ### Cara Kerja Website
-<p align="center"><img src="https://github.com/yenysyafitry/DQLab-Python-for-Data-Professional-Beginner-Part-3/blob/main/e-sertifikat.jpg"></p>
+<p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/1.png"></p>
