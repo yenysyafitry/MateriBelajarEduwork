@@ -11,5 +11,13 @@
 <ol align="justify"><b>Dua bagian utama dalam aplikasi web :</b>
 <li>Client dapat mengakses aplikasi web melalui web browser, seperti mozilla firefox, google chrome, internet explorer, dan web browser lainnya.</li>
 <li>Server adalah perangkat komputer dengan spesifikasi yang bagus dan digunakan untuk menyimpan aplikasi web beserta database server yang siap untuk diakses oleh client.
-</li>
-</ol>
+</li></ol>
+
+<b>Localhost Dan Web Hosting</b></br>
+<ol align="justify"><b>Localhost (Website offline)</b>
+  <li>Localhost memiliki server yang disebut sebagai server offline. </li>
+<li>Kenapa disebut sebagai server offline? Hal ini dikarenakan setiap data website yang dimasukkan kedalam server ini tidak bisa untuk diakses dari luar. </li></ol>
+<ol align="justify"><b>Web Hosting (Website Online)</b>
+<li>Web hosting atau bisa disebut sebagai server online merupakan server yang digunakan dalam menyimpan data-data dari sebuah website yang telah dikembangkan pada server localhost.</li>
+<li>Website dapat diakses user manapun melalui internet.</li></ol>
+
