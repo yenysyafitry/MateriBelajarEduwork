@@ -6,7 +6,8 @@
 </ol>
 
 ### Cara Kerja Website
-<p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/issues/1#issue-1066117518"></p>
+https://github.com/yenysyafitry/MateriBelajarEduwork/issues/2#issue-1066127120
+<p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/issues/2#issue-1066127120"></p>
 
 
 <ol align="justify"><b>Dua bagian utama dalam aplikasi web :</b>
