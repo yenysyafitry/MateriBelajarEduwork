@@ -13,11 +13,20 @@
 <li>Server adalah perangkat komputer dengan spesifikasi yang bagus dan digunakan untuk menyimpan aplikasi web beserta database server yang siap untuk diakses oleh client.
 </li></ol>
 
-###Localhost Dan Web Hosting
+### Localhost Dan Web Hosting
 <ol align="justify"><b>Localhost (Website offline)</b>
   <li>Localhost memiliki server yang disebut sebagai server offline. </li>
 <li>Kenapa disebut sebagai server offline? Hal ini dikarenakan setiap data website yang dimasukkan kedalam server ini tidak bisa untuk diakses dari luar. </li></ol>
 <ol align="justify"><b>Web Hosting (Website Online)</b>
 <li>Web hosting atau bisa disebut sebagai server online merupakan server yang digunakan dalam menyimpan data-data dari sebuah website yang telah dikembangkan pada server localhost.</li>
 <li>Website dapat diakses user manapun melalui internet.</li></ol>
+
+### Database
+Database atau basis data adalah kumpulan data yang dikelola sedemikian rupa berdasarkan ketentuan tertentu yang saling berhubungan sehingga mudah dalam pengelolaannya. Melalui pengelolaan tersebut pengguna dapat memperoleh kemudahan dalam mencari informasi, menyimpan informasi dan membuang informasi.</br>
+
+### Macam Macam Database
+
+<p align="center"><img src="https://github.com/yenysyafitry/MateriBelajarEduwork/blob/main/2.png 3.png"></p>
+
+
 
