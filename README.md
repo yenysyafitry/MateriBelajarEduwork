@@ -94,38 +94,38 @@ Text Editor adalah suatu software aplikasi atau suatu program komputer yang memu
 
 ### Membuat Tag
 1. Membuat Source Coding</br>
-![4](https://user-images.githubusercontent.com/81500429/144192034-f9844923-47eb-4c9c-92ce-a286af08e6f9.png)</br></br>
+![gambar4](https://user-images.githubusercontent.com/81500429/146915996-b7db9760-1bee-474d-b085-d30d291b968c.png)</br></br>
 
 2.Hasil Web</br>
-![5](https://user-images.githubusercontent.com/81500429/144192833-16374014-5d28-442a-82e1-5aca6f3bd2b4.png)
+![gambar5](https://user-images.githubusercontent.com/81500429/146915999-25d2d01c-539b-4903-ac1d-b36d2ad758a9.png)
 
 ### Membuat Tabel
 1. Membuat Source Coding</br>
-![6](https://user-images.githubusercontent.com/81500429/144192041-067cd265-9f49-4887-ad54-40a3fd386a8a.png)</br></br>
+![gambar6](https://user-images.githubusercontent.com/81500429/146916000-f25ad9d7-693b-46c6-879a-eb8a26e452f0.png)</br></br>
 
 2. Hasil Web</br>
-![7](https://user-images.githubusercontent.com/81500429/144192042-664eefee-d9e9-47fe-8109-1ba75b02ce26.png)</br></br>
+![gambar7](https://user-images.githubusercontent.com/81500429/146916003-5cb94d08-a49e-4237-8402-bbfaaf18ae35.png)</br></br>
 
 ### Membuat Menu
 1. Membuat Source Coding</br>
-![8](https://user-images.githubusercontent.com/81500429/144193581-652d9b68-ac12-4918-95d2-5e0c7edb1b43.png)</br>
+![gambar8](https://user-images.githubusercontent.com/81500429/146916005-dd9e8a42-b142-43ae-99bf-f027dac3bd68.png)</br>
 2. Hasil Web</br>
-![9](https://user-images.githubusercontent.com/81500429/144193594-2cca29b4-44c4-4f51-849a-f35a9083aaaf.png)</br></br>
+![gambar9](https://user-images.githubusercontent.com/81500429/146916008-2e74b705-241f-45fb-b60e-b26b6ff77be8.png)</br></br>
 
 ### Membuat Body
 1. Membuat Source Coding Body</br>
-![10](https://user-images.githubusercontent.com/81500429/144193599-bcf609af-c7ca-4c80-b336-d709e76e2426.png)</br></br>
+![gambar1](https://user-images.githubusercontent.com/81500429/146915989-7ef71ce1-1689-4d7b-91b5-1c7ff700dc40.png)</br></br>
 2. Hasil Web Tampilan Body</br>
-![11](https://user-images.githubusercontent.com/81500429/144193603-c7b457e5-cb97-4919-b1ce-3f8d6c9f80d7.png)
+![gambar10](https://user-images.githubusercontent.com/81500429/146917099-dba28e61-fa0c-4db9-98e7-cd789395a0d6.png)
 
 ### MEMBUAT FORM
 1. Membuat Source Coding</br>
-![12](https://user-images.githubusercontent.com/81500429/144195930-d53066af-4ba7-448a-864f-0f781ca06f6a.png)</br></br>
+![gambar11](https://user-images.githubusercontent.com/81500429/146917102-b88d69f6-d56e-458e-8b6c-38201de336f0.png)</br></br>
 2. Hasil Web Tampilan Form Menu</br>
-![13](https://user-images.githubusercontent.com/81500429/144195938-972912f4-e5f4-4bec-b549-e670815d5409.png)</br></br>
+![gambar12](https://user-images.githubusercontent.com/81500429/146917104-0c5fa86a-aa66-44c5-a287-3b0091a8c018.png)</br></br>
 3. Membuat Source Coding</br>
-![14](https://user-images.githubusercontent.com/81500429/144195940-12058065-c4d9-4d61-ba81-082fdc8cd102.png)</br></br>
+![gambar13](https://user-images.githubusercontent.com/81500429/146917108-10eaf1d8-0323-4b82-8945-d2606c8779a7.png)</br></br>
 4. Hasil Web Tampilan Body</br>
-![15](https://user-images.githubusercontent.com/81500429/144195945-2ed1ca4b-b79f-4f38-8ca5-750e793520a1.png)
+![gambar14](https://user-images.githubusercontent.com/81500429/146917113-7b883def-7348-4a91-acf6-3d2485375444.png)
 
 
