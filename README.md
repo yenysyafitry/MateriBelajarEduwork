@@ -84,13 +84,13 @@ Text Editor adalah suatu software aplikasi atau suatu program komputer yang memu
 
 ### Membuat Index
 1. Membuat Source Coding</br>
-![1](https://user-images.githubusercontent.com/81500429/144190853-6b1a070a-4b30-422b-92d2-06a8bb2ab7c6.png) </br></br>
+![gambar1](https://user-images.githubusercontent.com/81500429/146915989-7ef71ce1-1689-4d7b-91b5-1c7ff700dc40.png) </br></br>
 
 2. Simpan File Dalam format .html </br>
-![2](https://user-images.githubusercontent.com/81500429/144190863-d189ed82-d2e8-4eda-9cb1-b2948ba1959d.png) </br></br>
+![gambar2](https://user-images.githubusercontent.com/81500429/146915991-4f68064b-78a9-4d13-98b4-884684ab0f9f.png) </br></br>
 
 3. Berikut tampilan di web</br>
-![3](https://user-images.githubusercontent.com/81500429/144190866-73a09d32-e04b-43ac-865d-6f1ccb606202.png) </br></ol>
+![gambar3](https://user-images.githubusercontent.com/81500429/146915994-dabe2e90-c44d-4873-a845-ef80eed87952.png) </br></ol>
 
 ### Membuat Tag
 1. Membuat Source Coding</br>
