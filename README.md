@@ -138,3 +138,9 @@ Text Editor adalah suatu software aplikasi atau suatu program komputer yang memu
 < !-- JavaScript Bundle with Popper -- ></br>
 < script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></ script></p>
 
+### CDN BOOTSTRAP
+![21](https://user-images.githubusercontent.com/81500429/146918807-078b0532-c127-43ad-93e8-61e4eba11515.png)
+
+### Button
+![22](https://user-images.githubusercontent.com/81500429/146919019-ca9b4bcb-6b0b-4c00-bc6c-dabcf2c2f26d.png)</br>
+![23](https://user-images.githubusercontent.com/81500429/146919025-52055517-20d8-4b7a-aa53-5638a70d9852.png)
