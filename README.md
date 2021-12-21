@@ -132,9 +132,9 @@ Text Editor adalah suatu software aplikasi atau suatu program komputer yang memu
 <p align="justify">Bootstrap adalah framework open-source khusus front end yang awalnya dibuat oleh Mark Otto dan Jacob Thornton untuk mempermudah dan mempercepat pengembangan web di front end.</p>
 
 ### CDN BOOTSTRAP
-<p align="justify"> < !-- CSS only -- >
+<p align="justify"> < !-- CSS only -- ></br>
 < link href=" https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-</br>
-< !-- JavaScript Bundle with Popper -- >
+</br></br>
+< !-- JavaScript Bundle with Popper -- ></br>
 < script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></ script></p>
 
